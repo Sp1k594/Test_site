@@ -356,7 +356,8 @@ main {
 
 .subscription__plan.active .subscription__plan-price,
 .subscription__plan.active .subscription__plan-features,
-.subscription__plan.active .subscription__plan-button
+.subscription__plan.active .subscription__plan-button, 
+.subscription__plan-button
 {
     color: white;
 
